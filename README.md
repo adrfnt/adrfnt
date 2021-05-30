@@ -2,12 +2,12 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
-<h1 align="center"> Hi, I'm Andára <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> Hi, I'm Andára! </h1>
 
 - 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack. 
 - 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
 - 👩🏽‍🏫 Sabedoria é compartilhar conhecimento!
-- ✌🏾 Acompanhe meu desenvolvimento por aqui!
+- ✌🏾 Acompanhe meu desenvolvimento por aqui...
 
 ## Linguagens e Ferramentas
 <p> 
