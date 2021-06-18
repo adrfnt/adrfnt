@@ -1,8 +1,11 @@
-<img src=https://github.com/adrfnt/Andara-Finot/blob/48156244e0a9193e2b7db3c6feba54fb3aa73c70/Hello,%20world.png>
+<h1 align="center">
+  <img src=https://64.media.tumblr.com/04834b41f6c08335608f5237ed605ad4/e2a0f41787f49147-6c/s640x960/28f7a92b2819082e80bfd66c3f30a33c0607691d.gif>
+</h1>
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
-<h1 align="center"> Hi, I'm Andára! </h1>
+<h2 align="center"> Hi, I'm Andára! </h2>
 
 - 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack. 
 - 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
