@@ -10,10 +10,9 @@
 - 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack. 
 - 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
 - 👩🏽‍🏫 Sabedoria é compartilhar conhecimento!
-- ✌🏾 Acompanhe meu desenvolvimento por aqui...
 
 ## Linguagens e Ferramentas
-<p> 
+<p align = "center">
   <img src="http://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
