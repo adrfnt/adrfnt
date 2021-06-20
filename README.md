@@ -5,8 +5,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
-<h2 align="center"> Hi, I'm Andára! </h2>
+<h2 align="center"> :cherry_blossom:	Hello, World! :cherry_blossom: </h2>
 
+## Sobre mim
 - 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack. 
 - 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
 - 👩🏽‍🏫 Sabedoria é compartilhar conhecimento!
