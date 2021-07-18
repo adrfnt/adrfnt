@@ -8,9 +8,8 @@
 <h2 align="center"> :cherry_blossom:	Hello, World! :cherry_blossom: </h2>
 
 ## Sobre mim
-- 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack. 
+- 💻 Desenvolvedora Fullstack Jr., participante do bootcamp da <a href="https://brazil.generation.org" target="_blank">Generation</a>. 
 - 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
-- 👩🏽‍🏫 Sabedoria é compartilhar conhecimento!
 
 ## Linguagens e Ferramentas
 <p align = "center">
