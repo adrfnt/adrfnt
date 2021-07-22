@@ -9,7 +9,6 @@
 
 ## Sobre mim
 - 💻 Desenvolvedora Fullstack Jr., participante do bootcamp da <a href="https://brazil.generation.org" target="_blank">Generation</a>. 
-- 👩🏽‍🎓 Sou formada em Comunicação Social - PP & Logística.
 
 ## Linguagens e Ferramentas
 <p align = "center">
