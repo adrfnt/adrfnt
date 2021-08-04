@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
-<h2 align="center"> :cherry_blossom:	Hello, World! :cherry_blossom: </h2>
+<h2 align="center"> Hello! I,m Andára Finot </h2>
 
 ## Sobre mim
 - 💻 Desenvolvedora Fullstack em evolução | Generation Brasil Bootcamp. 
