@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src=https://64.media.tumblr.com/04834b41f6c08335608f5237ed605ad4/e2a0f41787f49147-6c/s640x960/28f7a92b2819082e80bfd66c3f30a33c0607691d.gif>
-</h1>
-
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
 <h2 align="center"> Hello! I,m Andára Finot </h2>
