@@ -1,7 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=adrfnt" alt="adrfnt" /></p>
 
-<h2 align="center"> Hello! I,m Andára Finot </h2>
-
 ## Sobre mim
 - 💻 Santander - Excel com IA | Generation Brasil Bootcamp. 
 - 🎓 Formada em Comunicação Social e Logística.
